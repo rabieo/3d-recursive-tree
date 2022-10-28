@@ -10,6 +10,7 @@ Also, you can try it with lines geometry instead of cylinder geometry for better
 The code for that one can be found here: https://github.com/rabieo/3d-hello-world
 
 ![image](./cover.png)
+![gif](./coverg.gif)
 
 ## Warning
 
