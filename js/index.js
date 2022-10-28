@@ -5,8 +5,8 @@ var uiControls = new function() {
   this.onClickNumOfBranches = 1;
 }
 var gui = new dat.GUI();
-let slider1 = gui.add(uiControls, 'numberOfBranches', 1, 20, 1);
-let slider2 = gui.add(uiControls, 'recursionDepth', 0, 5, 1);
+let slider1 = gui.add(uiControls, 'numberOfBranches', 1, 10, 1);
+let slider2 = gui.add(uiControls, 'recursionDepth', 0, 4, 1);
 let slider3 = gui.add(uiControls, 'onClickNumOfBranches', 0, 5, 1);
 
 // create the scene, camera and renderer objects from threejs
