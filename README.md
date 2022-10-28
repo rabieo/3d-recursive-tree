@@ -7,6 +7,7 @@ Build a fractal-like pine tree structure from 3d segments.
 To try it out go to https://rabieo.github.io/3d-recursive-tree/. This uses cylinders as a geometry for the branches. 
 
 Also, you can try it with lines geometry instead of cylinder geometry for better performance here https://rabieo.github.io/3d-hello-world/. This one animates around the y-axis too!
+The code for that one can be found here: https://github.com/rabieo/3d-hello-world
 
 ![image](./cover.png)
 
